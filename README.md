@@ -23,9 +23,6 @@ SortSmart is a waste material classification system that uses a deep learning mo
 Garbage_Classification_Project/
 │── app.py                    # Main Flask backend
 │
-├── model/      
-│   ├── garbage_classification_VGG16.h5 # Trained model file
-│
 │── requirements.txt                # Python dependencies
 │── uploads/                        # Temporary uploaded files
 │
